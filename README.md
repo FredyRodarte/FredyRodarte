@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fredy Rodarte</h1>
+<h1 align="center">Hi 👾, I'm Fredy Rodarte</h1>
 <h3 align="center">I am a software developer enthusiastic about technology and programming, currently pursuing a degree in software engineering with a keen interest in mobile, web, and video game development.</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [http://cv-fredyrodarte.free.nf/?i=1](http://cv-fredyrodarte.free.nf/?i=1)
+- 🎮 Know about my experiences [http://cv-fredyrodarte.free.nf/?i=1](http://cv-fredyrodarte.free.nf/?i=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
